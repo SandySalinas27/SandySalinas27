@@ -13,6 +13,6 @@ JavaScript | Kotlin | MySQL | Android Studio | HTML | PHP
 🚀 Proyectos:
 
 
-📫 Contacto
+📫 Contacto:
 
 Correo: sandy.salinas@clases.edu.sv
