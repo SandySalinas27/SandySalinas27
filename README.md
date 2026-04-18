@@ -1,6 +1,6 @@
 👋 Hola, soy Sandy Salinas
 
-🙋 Sobre mí:
+##🙋 Sobre mí:
 
 Soy docente de informática en bachillerato, enfocada en el área de desarrollo de software.
 Me apasiona enseñar programación y guiar a mis estudiantes en la creación de proyectos prácticos.
