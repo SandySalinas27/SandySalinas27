@@ -11,7 +11,7 @@ Trabajo con tecnologías actuales y promuevo el aprendizaje basado en la prácti
 JavaScript | Kotlin | MySQL | Android Studio | HTML | PHP 
 
 🚀 Proyectos:
-Aplicación desarrollada en Android Studio 
+
 
 📫 Contacto
 
