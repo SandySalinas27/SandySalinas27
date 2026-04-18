@@ -6,8 +6,7 @@ Soy docente de informática en bachillerato, enfocada en el área de desarrollo 
 Me apasiona enseñar programación y guiar a mis estudiantes en la creación de proyectos prácticos.
 Trabajo con tecnologías actuales y promuevo el aprendizaje basado en la práctica.
 
-💻 Tecnologías: 
-
+##💻 Tecnologías: 
 JavaScript
 Kotlin
 MySQL
