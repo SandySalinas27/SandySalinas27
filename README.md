@@ -7,6 +7,7 @@ Me apasiona enseñar programación y guiar a mis estudiantes en la creación de 
 Trabajo con tecnologías actuales y promuevo el aprendizaje basado en la práctica.
 
 💻 Tecnologías: 
+
 JavaScript | Kotlin | MySQL | Android Studio | HTML | PHP 
 
 🚀 Proyectos:
