@@ -9,17 +9,21 @@ Trabajo con tecnologías actuales y promuevo el aprendizaje basado en la prácti
 💻 Tecnologías: 
 
 JavaScript
+
 Kotlin
+
 MySQL
+
 Git
+
 Android Studio
 
 🚀 Proyectos:
 
 📌 Aplicación educativa en Android
+
 Aplicación desarrollada en Android Studio 
 
 📫 Contacto
-Correo: 
 
-sandy.salinas@clases.edu.sv
+Correo: sandy.salinas@clases.edu.sv
